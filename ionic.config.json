@@ -1,0 +1,7 @@
+{
+  "name": "ionic-smiley-rate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
